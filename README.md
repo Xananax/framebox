@@ -2,4 +2,8 @@
 
 Library to facilitate communication between embedded iframes and container page
 
-Empty placeholder for a library to come
+Routes-based, allows to pass objects and to share a common scope.
+
+## Usage:
+
+check examples/ for a quick setup
